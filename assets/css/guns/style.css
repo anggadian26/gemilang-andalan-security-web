@@ -1,7 +1,7 @@
 *body {
     background-color: white;
 }
-.hero-header {
+/* .hero-header {
     background:
         url(/assets/img/back/bg-dot.png),
         url(/assets/img/back/bg-dot.png),
@@ -15,7 +15,7 @@
         left 45% bottom -1px;
     background-repeat: no-repeat;
     position: relative;
-}
+} */
 
 .hero-header svg {
     position: absolute;
